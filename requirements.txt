@@ -1,0 +1,12 @@
+torch>=1.6.0
+timm
+torchvision
+pyyaml
+Pillow
+numpy
+matplotlib
+omegaconf>=2.0
+wandb
+opencv-python
+
+pycocotools>=2.0.0
